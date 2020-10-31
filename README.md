@@ -16,5 +16,6 @@ Then:
 
 ```bash
 yarn install
+mkdir -p /tmp/pptuser`
 node index.js
 ```
